@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for training - Devops TechLab.Testing Github webhook trigger. </h1>
+    <h1>New user Register for training - Devops TechLab.Testing Github webhook trigger</h1>
     <p>Deploy using Docker</p>
     <hr>
      
