@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for training</h1>
+    <h1>New user Register for training - Devops </h1>
     <p>Deploy using Docker</p>
     <hr>
      
